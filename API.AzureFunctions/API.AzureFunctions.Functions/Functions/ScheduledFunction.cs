@@ -10,7 +10,7 @@ namespace API.AzureFunctions.Functions.Functions
     public class ScheduledFunction
     {
         [FunctionName("ScheduledFunction")]
-        public async Task Run(
+        public static async Task Run(
             [TimerTrigger("0 */2 * * * *")] TimerInfo myTimer,
             [Table("todo", Connection = "AzureWebJobsStorage")] CloudTable todoTable,
             ILogger log)
