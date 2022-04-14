@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.AzureFunctions.Commons", "API.AzureFunctions.Commons\API.AzureFunctions.Commons.csproj", "{2FD7AA7E-0B95-456A-A688-0727976F9EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.AzureFunctions.Commons", "API.AzureFunctions.Commons\API.AzureFunctions.Commons.csproj", "{2FD7AA7E-0B95-456A-A688-0727976F9EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.AzureFunctions.Functions", "API.AzureFunctions.Functions\API.AzureFunctions.Functions.csproj", "{D68B28AB-9592-4557-90BF-3FEB9634993F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.AzureFunctions.Functions", "API.AzureFunctions.Functions\API.AzureFunctions.Functions.csproj", "{D68B28AB-9592-4557-90BF-3FEB9634993F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.AzureFunctions.Test", "API.AzureFunctions.Test\API.AzureFunctions.Test.csproj", "{DB7E2134-E931-4F57-8134-6FD91C2BC2BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.AzureFunctions.Test", "API.AzureFunctions.Test\API.AzureFunctions.Test.csproj", "{DB7E2134-E931-4F57-8134-6FD91C2BC2BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
